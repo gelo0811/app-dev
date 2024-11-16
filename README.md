@@ -7,10 +7,10 @@ My first repository
 
 ### **DETAILS/INFORMATION**
 
-1. **RELEASE DATE**: October 23, 2014
-2. **GENRE**: Animation, Sci Fi
-3. **CHARACTERS**: Baymax, Hiro Hamada, Tadashi Hamada, Gogo Tamago, Honey Lemon, Wasabi, Fred, Aunt Cass
-4. **Directed By**: Don Hall & Chris Williams
+1. **RELEASE DATE:** October 23, 2014
+2. **GENRE:** Animation, Sci Fi
+3. **CHARACTERS:** Baymax, Hiro Hamada, Tadashi Hamada, Gogo Tamago, Honey Lemon, Wasabi, Fred, Aunt Cass
+4. **Directed By:** Don Hall & Chris Williams
 
 ### **SUMMARY**
 
